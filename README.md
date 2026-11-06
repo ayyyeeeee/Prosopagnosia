@@ -108,7 +108,7 @@
 ## 快速运行与打包指南 (Getting Started & Build Guide)
 
 ### 1. 运行已打包版本 (For Players / 体验者)
-1. 在本仓库下载发行版压缩包（如 `MyFirstGame_Build.zip`）并**完整解压整个文件夹**。
+1. 在本仓库下载发行版压缩包（`Prosopagnosia.zip`）并**完整解压整个文件夹**。
    * **注意**：请勿只单独提取 `.exe` 文件运行，必须确保 `.exe` 可执行文件、`UnityPlayer.dll` 以及 `[游戏名]_Data` 文件夹处于同一目录下。
 2. 双击 `.exe` 启动游戏，背景音乐将自动循环播放。
 3. 结合上方的**角色线索表**在场景中观察并射击 NPC 完成身份配对。
@@ -124,5 +124,5 @@
 
 ## 开发致谢 (Acknowledgments)
 
-* **核心开发与实验设计**：项目作者
+* **核心开发与实验设计**：项目作者,GOOGLE贝尔谢巴
 * **AI 协同编程与调试支持**：Google Gemini（协助完成了从基础答题到实时计时速通模式 `InteractionManager.cs` 的迭代升级、TextMeshPro 兼容适配、音频系统配置及 Unity 6 打包流程指导）
